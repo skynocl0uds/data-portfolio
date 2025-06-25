@@ -1,2 +1,6 @@
-# data-portfolio
-A portfolio containing all of my data analysis projects
+# My Data Analysis Portfolio
+
+Welcome! This portfolio contains my work in data analysis. Each project focuses on a different skillset using real-world datasets.
+
+## Projects
+
